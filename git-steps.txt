@@ -1,0 +1,15 @@
+1- git download
+2- github account
+
+3- cmd open krka 2 commands chalani ha.
+=> git config --global user.name "your_username"
+=> git config --global user.email "your_email"
+
+4- Github pa aik repo/folder banalia
+5- usi repo ko apna computer pa leka ana ka liya aik command run krainga
+
+=> git clone repourl
+
+6- Folder create ka hona ka baad us folder ma kaam krainga or source control icon pa click krka commit message likhainga joka relavent hona chahya or 3 dot pa click krka code push krdainga.
+
+7- code push hona ka baad dobara agar changes ki to wohi dobara process commit or push wala repeat krna prhaiga
